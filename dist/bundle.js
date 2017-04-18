@@ -14622,11 +14622,11 @@ function(e, t, n) {
             default.createElement("span", null, u.
             default.createElement("i", {
                     className: "iconfont icon-wodeboke"
-                }), "blog:"), u.
+                }), "码云:"), u.
             default.createElement("a", {
-                    href: "http://www.cnblogs.com"
+                    href: "https://git.oschina.net/my_man/superusedmarket.git"
                 },
-                "http://www.cnblogs.com")), u.
+                "https://git.oschina.net/my_man/superusedmarket.git")), u.
             default.createElement("dd", null, u.
             default.createElement("span", null, u.
             default.createElement("i", {
@@ -14635,16 +14635,16 @@ function(e, t, n) {
             default.createElement("a", {
                     href: "https://github.com"
                 },
-                "https://github.com/xiaohuazai")), u.
+                "https://github.com/wujianan/super.git")), u.
             default.createElement("dd", null, u.
             default.createElement("span", null, u.
             default.createElement("i", {
                     className: "iconfont icon-markdown"
-                }), "Markdown笔记:"), u.
+                }), "参考笔记:"), u.
             default.createElement("a", {
-                    href: "https://xiaohuazai.github.io/"
+                    href: "https://github.com/wujianan/class.git"
                 },
-                "https://xiaohuazai.github.io/")), u.
+                "https://github.com/wujianan/class.git")), u.
             default.createElement("dd", null, u.
             default.createElement("a", {
                     href: ""
@@ -14713,18 +14713,12 @@ function(e, t, n) {
                     className: "secondary"
                 },
                 "微信小程序"), u.
+            
             default.createElement("li", {
                     className: "know"
                 },
-                "weex"), u.
-            default.createElement("li", {
-                    className: "know"
-                },
-                "node.js"), u.
-            default.createElement("li", {
-                    className: "know"
-                },
-                "express"))))), u.
+                
+                "nginx"))))), u.
             default.createElement("li", null, u.
             default.createElement("dl", null, u.
             default.createElement("dt", null, u.
@@ -14740,15 +14734,14 @@ function(e, t, n) {
             default.createElement("div", {
                     className: "round"
                 }), u.
-            default.createElement("h4", null, "HTML5 / CSS3 / SCSS"), u.
-            default.createElement("p", null, "能够编写语义化的HTML，熟练运用div+css 浮动布局，flexbox 弹性布局。"), u.
-            default.createElement("p", null, "熟悉SCSS书写，gulp，webpack自动化工具的运用，进行模块化开发。")), u.
+            default.createElement("h4", null, "HTML / CSS"), u.
+            default.createElement("p", null, " 熟练掌握HTML（CSS）,拥有良好的代码习惯，并且结构清晰，命名规范。"), u.
             default.createElement("li", null, u.
             default.createElement("div", {
                     className: "round"
                 }), u.
             default.createElement("h4", null, "Javascript"), u.
-            default.createElement("p", null, "熟悉原生的Javascript，对原型，原型链，对象，闭包等都有一定的了解。能脱离jQuery等库编写一些常见的功能，如轮播图，计算器，购物车等等。")), u.
+            default.createElement("p", null, "熟悉原生的Javascript，能脱离jQuery等库编写一些常见的功能，如轮播图，计算器，购物车等等。")), u.
             default.createElement("li", null, u.
             default.createElement("div", {
                     className: "round"
@@ -14772,19 +14765,20 @@ function(e, t, n) {
                     className: "round"
                 }), u.
             default.createElement("h4", null, "mySql"), u.
-            default.createElement("p", null, "熟练运用SQL语句对数据库进行增删改查操作，sql语句优化，MySQL读写分离。")), u.
+            default.createElement("p", null, "熟练运用SQL语句对数据库进行增删改查操作，sql语句优化。")), u.
+            default.createElement("p", null, "")), u.
             default.createElement("li", null, u.
             default.createElement("div", {
                     className: "round"
                 }), u.
-            default.createElement("h4", null, "Linux"), u.
-            default.createElement("p", null, "熟练掌握Linux常用命令，会搭建LAMP环境，iptables防火墙。")), u.
+            default.createElement("h4", null, "Linux、nginx"), u.
+            default.createElement("p", null, "熟练掌握Linux（nginx）常用命令，会搭建LAMP，nginx环境，iptables防火墙。")), u.
             default.createElement("li", null, u.
             default.createElement("div", {
                     className: "round"
                 }), u.
             default.createElement("h4", null, "laravel"), u.
-            default.createElement("p", null, "熟练使用laravel进行项目开发，自制二维码，会使用常用验证码、微信、支付组件、七牛云存储、阿里OSS云存储、阿里大鱼短信接口及redis缓存等")), u.
+            default.createElement("p", null, "熟练使用laravel进行项目开发，会使用常用验证码、文本编辑器、云之讯短信接口及redis缓存等")), u.
             default.createElement("li", null, u.
             default.createElement("div", {
                     className: "round"
@@ -14795,8 +14789,8 @@ function(e, t, n) {
             default.createElement("div", {
                     className: "round"
                 }), u.
-            default.createElement("h4", null, "WebApp"), u.
-            default.createElement("p", null, "会制作简单的单页APP，使用webview进行移动开发，运用Cordova进行打包。")), u.
+            default.createElement("h4", null, ""), u.
+            default.createElement("p", null, "")), u.
             default.createElement("li", null, u.
             default.createElement("div", {
                     className: "round"
@@ -14815,9 +14809,9 @@ function(e, t, n) {
                     className: "iconfont icon-biaoti"
                 }), "自我评价"), u.
             default.createElement("dd", null, u.
-            default.createElement("p", null, "个人对于计算机方面是非常有兴趣的，特别享受一边敲代码一边听音乐的乐趣，有自己的个人博客，其中一篇博客目前为止超过 2000 的阅读量。精通于MAC上进行开发。"), u.
-            default.createElement("p", null, "平时我就是一个很细心的人，对于代码方面更是如此，尽最大的努力精确到1px，不能接受标签胡乱嵌套，命名不规范，无用或重复的代码，等等问题，追求完美。"), u.
-            default.createElement("p", null, "对待问题首先自己折腾解决，享受解决问题之后的快感，有种肾上腺素飙升的感觉。")))))))
+            default.createElement("p", null, " 5年以上的工作经验,注重细节，有较强的领导力、组织能力和团队精神。"), u.
+            default.createElement("p", null, " 能承担高负荷的工作，具备很强的创新意识和高度的责任心，能够从用户和业务的角度来完成技术实现，学习能力强，有良好的沟通能力。"), u.
+            default.createElement("p", null, " 协调各方事物，注重团队合作。")))))))
             }
         }]),
         t
